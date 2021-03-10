@@ -1,0 +1,35 @@
+frontend frameworks
+	Angular DEVELOPED BY TYPESCRIPT
+	vue
+	Jquery
+backend frameworks
+	laravel
+	django
+	expressjs
+	rails
+	flask
+	spring
+	cakephp
+	asp.net mvc
+
+XAMPP 
+	x stands for cross platform
+	A apache
+	M mysql
+	P php
+	P perl
+	common for all
+WAMPP
+	w windods
+	A apache
+	M mysql
+	P php
+	P perl
+LAMPP
+	L linux
+	A apache
+	M mysql
+	P php
+	P perl	
+
+emmet is an popular plugin that you can used in html programing
